@@ -1,0 +1,26 @@
+/* ==== GENERAL STYLES ==== */
+
+* {
+  box-sizing: border-box;
+}
+
+/* ==== A SIMPLE TOP NAVIGATION ==== */
+
+nav ul {
+  background-color: #eee;
+  text-align: center;
+}
+
+nav li {
+  font-family: 'Anton', sans-serif;
+  font-size: 1.4rem;
+  line-height: 3rem;
+  height: 3rem;
+  border-bottom: 1px solid #ccc;
+}
+
+nav a {
+  text-decoration: none;
+  color: #C74F78;
+  display: block;
+}
